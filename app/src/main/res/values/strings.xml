@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EAC3_P3_Villa_Jose</string>
+    <string name="the_simpsons_1">The Simpsons 1</string>
+    <string name="the_simpsons_2">The Simpsons 2</string>
+    <string name="the_simpsons_0">The Simpsons 0</string>
+    <string name="homer_simpson">Homer Simpson</string>
+    <string name="engranatge_vermell">Engranatge vermell</string>
+    <string name="engranatge_verd">Engranatge Verd</string>
+    <string name="engranatge_blau">Engranatge Blau</string>
+    <string name="ull">Ull</string>
+    <string name="donut">Donut</string>
+</resources>
